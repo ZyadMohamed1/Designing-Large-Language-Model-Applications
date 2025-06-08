@@ -1,0 +1,14 @@
+Olympics NER Results
+===================
+
+Model: Rule-based
+Text length: 1000 chars
+
+Tagged output:
+*The: LOC* *Summer: EVENT* *Olympic: LOC* *Games,: EVENT* also known as the *Summer: EVENT* *Olympics: EVENT* or the *Games: EVENT* of the *Olympiad,: LOC* is a major international multi-sport event normally held once every four years. *The: LOC* inaugural *Games: EVENT* took place in *1896: NUM* in *Athens,: LOC* then part of the *Kingdom: LOC* of *Greece,: LOC* and the most recent was held in *2024: NUM* in *Paris,: LOC* *France.: LOC* *This: LOC* was the first international multi-sport event of its kind, organised by the *International: LOC* *Olympic: LOC* *Committee: ORG* *(IOC): ORG* founded by *Pierre: LOC* de *Coubertin.: LOC* *The: LOC* tradition of awarding medals began in 1904; in each *Olympic: LOC* event, gold medals are awarded for first place, silver medals for second place, and bronze medals for third place. *The: LOC* *Winter: EVENT* *Olympic: LOC* *Games: EVENT* were created out of the success of the *Summer: EVENT* *Olympic: LOC* *Games,: EVENT* which are regarded as the largest and most prestigious multi-sport international event in the world. *The: LOC* *Summer: EVENT* *Olympics: EVENT* have increased in scope from a 42-event competition programme in *1896: NUM* with fewer than *250: NUM* male competitors from *14: NUM* nations, to *339: NUM* events in *2021: NUM* with *1: NUM*
+
+Entity counts:
+EVENT: 12
+LOC: 20
+NUM: 8
+ORG: 2

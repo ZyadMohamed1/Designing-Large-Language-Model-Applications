@@ -1,0 +1,129 @@
+{
+  "extraction_method": "alternative_llama3",
+  "validation_results": {
+    "valid_json": true,
+    "schema_compliant": true,
+    "movie_count": 8,
+    "completeness_score": 0.9285714285714286,
+    "errors": []
+  },
+  "extracted_data": {
+    "actor_name": "Andrew Garfield",
+    "extraction_method": "mock_data",
+    "movies": [
+      {
+        "movie_name": "Boy A",
+        "year": 2007,
+        "director": "John Crowley",
+        "coactors": [
+          "Peter Mullan",
+          "Shaun Evans"
+        ],
+        "role": "Jack Burridge",
+        "genre": "Drama",
+        "awards": [
+          "BAFTA Award for Best Actor"
+        ]
+      },
+      {
+        "movie_name": "The Social Network",
+        "year": 2010,
+        "director": "David Fincher",
+        "coactors": [
+          "Jesse Eisenberg",
+          "Justin Timberlake",
+          "Armie Hammer"
+        ],
+        "role": "Eduardo Saverin",
+        "genre": "Biography/Drama",
+        "awards": [
+          "BAFTA nomination",
+          "Golden Globe nomination"
+        ]
+      },
+      {
+        "movie_name": "The Amazing Spider-Man",
+        "year": 2012,
+        "director": "Marc Webb",
+        "coactors": [
+          "Emma Stone",
+          "Rhys Ifans",
+          "Denis Leary"
+        ],
+        "role": "Spider-Man/Peter Parker",
+        "genre": "Superhero/Action",
+        "awards": []
+      },
+      {
+        "movie_name": "The Amazing Spider-Man 2",
+        "year": 2014,
+        "director": "Marc Webb",
+        "coactors": [
+          "Emma Stone",
+          "Jamie Foxx",
+          "Dane DeHaan"
+        ],
+        "role": "Spider-Man/Peter Parker",
+        "genre": "Superhero/Action",
+        "awards": []
+      },
+      {
+        "movie_name": "Hacksaw Ridge",
+        "year": 2016,
+        "director": "Mel Gibson",
+        "coactors": [
+          "Teresa Palmer",
+          "Vince Vaughn",
+          "Sam Worthington"
+        ],
+        "role": "Desmond Doss",
+        "genre": "War/Biography",
+        "awards": [
+          "Academy Award nomination for Best Actor"
+        ]
+      },
+      {
+        "movie_name": "Silence",
+        "year": 2016,
+        "director": "Martin Scorsese",
+        "coactors": [
+          "Adam Driver",
+          "Liam Neeson",
+          "Tadanobu Asano"
+        ],
+        "role": "Sebastião Rodrigues",
+        "genre": "Historical Drama",
+        "awards": []
+      },
+      {
+        "movie_name": "Tick, Tick... Boom!",
+        "year": 2021,
+        "director": "Lin-Manuel Miranda",
+        "coactors": [
+          "Alexandra Shipp",
+          "Robin de Jesús",
+          "Vanessa Hudgens"
+        ],
+        "role": "Jonathan Larson",
+        "genre": "Musical/Biography",
+        "awards": [
+          "Golden Globe Award for Best Actor",
+          "Academy Award nomination"
+        ]
+      },
+      {
+        "movie_name": "Spider-Man: No Way Home",
+        "year": 2021,
+        "director": "Jon Watts",
+        "coactors": [
+          "Tom Holland",
+          "Tobey Maguire",
+          "Zendaya"
+        ],
+        "role": "Spider-Man/Peter Parker",
+        "genre": "Superhero/Action",
+        "awards": []
+      }
+    ]
+  }
+}

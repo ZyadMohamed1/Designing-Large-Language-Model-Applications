@@ -49,6 +49,7 @@ A lightweight classifier trained to distinguish between high-quality (Wikipedia)
 
 Trains a KenLM model to explore how perplexity varies across text types (e.g., formal writing, slang, SEO spam). Uses perplexity as a proxy for text quality and includes helpful visualization tools.  
 🔗 [Notebook: Perplexity_Model.ipynb](Perplexity_Model.ipynb)
+> Running on Colab Free Tier so couldn't load the actual datasets due to limited disk size.
 
 ---
 

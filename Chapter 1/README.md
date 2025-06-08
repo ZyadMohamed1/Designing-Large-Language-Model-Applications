@@ -35,6 +35,6 @@ Used the `diversity` library to extract common syntactic patterns from essays us
 
 ---
 
-### ✅ Exercise 6: Production-Ready Chat with PDF  
+### ✅ Exercise 6: Production-Ready Chat with PDF *(OpenAI API Required)*  
 Built a full backend implementation for a “Chat with Your PDF” application powered by LLMs:  
 [Chat-With-Your-PDF.ipynb](Chat-With-Your-PDF.ipynb)
