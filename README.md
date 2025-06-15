@@ -104,6 +104,14 @@ Whether you're an ML engineer, researcher, or curious developer, this repository
 - 🏆 Implement two-stage retrieval with RankVicuna-style reranking
 - 📝 Compare QA-focused vs generic summarization for noise reduction
 
+### [Chapter 13: LLM Confidence and Framework Integration — Advanced Model Assessment and Development](./Chapter%2013/)
+*Explore model confidence measurement techniques and modern LLM development frameworks for robust AI applications*
+
+**Highlights:**
+- 📊 Implement three distinct LLM confidence assessment methods with statistical calibration analysis
+- 🎯 Compare margin sampling, entropy-based, and temperature-scaling approaches for uncertainty quantification
+- 🔧 Build question-answering systems using DSPy framework for structured LLM development
+
 ## 📋 Prerequisites
 
 - Python 3.8+
