@@ -1,0 +1,380 @@
+{
+  "question_1": {
+    "question": "How many daily passengers use the rail system in Greater Tokyo?",
+    "expected_answer": "40 million",
+    "results": [
+      {
+        "context_tokens": 253,
+        "target_tokens": 400,
+        "accuracy": 1.0,
+        "correct_answers": 10,
+        "total_trials": 10,
+        "sample_responses": [
+          "40 million passengers (counted twice if transferring between operators)",
+          "40 million passengers (counted twice if transferring between operators) use the rail system daily.",
+          "40 million passengers (counted twice if transferring between operators) use the rail system daily."
+        ]
+      },
+      {
+        "context_tokens": 826,
+        "target_tokens": 800,
+        "accuracy": 1.0,
+        "correct_answers": 10,
+        "total_trials": 10,
+        "sample_responses": [
+          "40 million passengers (counted twice if transferring between operators) use the rail system daily.",
+          "40 million passengers use the rail system daily (counted twice if transferring between operators).",
+          "40 million passengers use the rail system daily (counted twice if transferring between operators)."
+        ]
+      },
+      {
+        "context_tokens": 1228,
+        "target_tokens": 1200,
+        "accuracy": 1.0,
+        "correct_answers": 10,
+        "total_trials": 10,
+        "sample_responses": [
+          "40 million passengers (counted twice if transferring between operators) use the rail system daily.",
+          "40 million passengers use the rail system daily (counted twice if transferring between operators).",
+          "40 million passengers (counted twice if transferring between operators) use the rail system daily."
+        ]
+      },
+      {
+        "context_tokens": 1635,
+        "target_tokens": 1600,
+        "accuracy": 1.0,
+        "correct_answers": 10,
+        "total_trials": 10,
+        "sample_responses": [
+          "40 million passengers (counted twice if transferring between operators) use the rail system daily.",
+          "40 million passengers (counted twice if transferring between operators) use the rail system daily.",
+          "40 million passengers (counted twice if transferring between operators) use the rail system daily."
+        ]
+      },
+      {
+        "context_tokens": 1959,
+        "target_tokens": 2000,
+        "accuracy": 1.0,
+        "correct_answers": 10,
+        "total_trials": 10,
+        "sample_responses": [
+          "According to the text, approximately 40 million passengers use the rail system daily in Greater Tokyo. This figure includes transfers between operators, so it is counted twice if a passenger transfers between different rail networks.",
+          "According to the text, approximately 40 million passengers use the rail system in Greater Tokyo daily. This figure includes transfers between operators, so it is counted twice if a passenger transfers between networks.",
+          "According to the text, approximately 40 million passengers use the rail system in Greater Tokyo daily. This figure includes transfers between operators and is counted twice if transferring between networks."
+        ]
+      },
+      {
+        "context_tokens": 2388,
+        "target_tokens": 2400,
+        "accuracy": 1.0,
+        "correct_answers": 10,
+        "total_trials": 10,
+        "sample_responses": [
+          "According to the text, approximately 40 million passengers (counted twice if transferring between operators) use the rail system daily in Greater Tokyo.",
+          "According to the text, approximately 40 million passengers (counted twice if transferring between operators) use the rail system daily in Greater Tokyo.",
+          "According to the text, approximately 40 million passengers (counted twice if transferring between operators) use the rail system daily in Greater Tokyo."
+        ]
+      },
+      {
+        "context_tokens": 2832,
+        "target_tokens": 2800,
+        "accuracy": 1.0,
+        "correct_answers": 10,
+        "total_trials": 10,
+        "sample_responses": [
+          "According to the text, 40 million passengers (counted twice if transferring between operators) use the rail system daily.",
+          "According to the text, 40 million passengers (counted twice if transferring between operators) use the rail system daily.",
+          "According to the text, 40 million passengers (counted twice if transferring between operators) use the rail system daily."
+        ]
+      },
+      {
+        "context_tokens": 3187,
+        "target_tokens": 3200,
+        "accuracy": 1.0,
+        "correct_answers": 10,
+        "total_trials": 10,
+        "sample_responses": [
+          "According to the text, 40 million passengers (counted twice if transferring between operators) use the rail system daily in Greater Tokyo.",
+          "According to the text, 40 million passengers (counted twice if transferring between operators) use the rail system daily in Greater Tokyo.",
+          "According to the text, 40 million passengers (counted twice if transferring between operators) use the rail system daily."
+        ]
+      },
+      {
+        "context_tokens": 3513,
+        "target_tokens": 3600,
+        "accuracy": 1.0,
+        "correct_answers": 10,
+        "total_trials": 10,
+        "sample_responses": [
+          "According to the text, 40 million passengers (counted twice if transferring between operators) use the rail system daily.",
+          "According to the text, 40 million passengers (counted twice if transferring between operators) use the rail system daily.",
+          "According to the text, 40 million passengers (counted twice if transferring between operators) use the rail system daily."
+        ]
+      },
+      {
+        "context_tokens": 3996,
+        "target_tokens": 4000,
+        "accuracy": 1.0,
+        "correct_answers": 10,
+        "total_trials": 10,
+        "sample_responses": [
+          "According to the text, approximately 40 million passengers (counted twice if transferring between operators) use the rail system daily in Greater Tokyo.",
+          "According to the text, approximately 40 million passengers (counted twice if transferring between operators) use the rail system daily in Greater Tokyo.",
+          "According to the text, approximately 40 million passengers (counted twice if transferring between operators) use the rail system daily in Greater Tokyo."
+        ]
+      }
+    ]
+  },
+  "question_2": {
+    "question": "What is the busiest train station in the world by passenger throughput?",
+    "expected_answer": "Shinjuku Station",
+    "results": [
+      {
+        "context_tokens": 243,
+        "target_tokens": 400,
+        "accuracy": 1.0,
+        "correct_answers": 10,
+        "total_trials": 10,
+        "sample_responses": [
+          "Shinjuku Station.",
+          "Shinjuku Station.",
+          "Shinjuku Station."
+        ]
+      },
+      {
+        "context_tokens": 816,
+        "target_tokens": 800,
+        "accuracy": 1.0,
+        "correct_answers": 10,
+        "total_trials": 10,
+        "sample_responses": [
+          "Shinjuku Station is the busiest train station in the world by passenger throughput.",
+          "Shinjuku Station is the busiest train station in the world by passenger throughput.",
+          "Shinjuku Station is the busiest train station in the world by passenger throughput."
+        ]
+      },
+      {
+        "context_tokens": 1218,
+        "target_tokens": 1200,
+        "accuracy": 1.0,
+        "correct_answers": 10,
+        "total_trials": 10,
+        "sample_responses": [
+          "Shinjuku Station.",
+          "Shinjuku Station.",
+          "Shinjuku Station."
+        ]
+      },
+      {
+        "context_tokens": 1625,
+        "target_tokens": 1600,
+        "accuracy": 1.0,
+        "correct_answers": 10,
+        "total_trials": 10,
+        "sample_responses": [
+          "Shinjuku Station is the busiest train station in the world by passenger throughput.",
+          "Shinjuku Station is the busiest train station in the world by passenger throughput.",
+          "Shinjuku Station is the busiest train station in the world by passenger throughput."
+        ]
+      },
+      {
+        "context_tokens": 1949,
+        "target_tokens": 2000,
+        "accuracy": 1.0,
+        "correct_answers": 10,
+        "total_trials": 10,
+        "sample_responses": [
+          "According to the text, Shinjuku Station is the busiest train station in the world by passenger throughput.",
+          "Shinjuku Station is the busiest train station in the world by passenger throughput.",
+          "Shinjuku Station is the busiest train station in the world by passenger throughput."
+        ]
+      },
+      {
+        "context_tokens": 2378,
+        "target_tokens": 2400,
+        "accuracy": 1.0,
+        "correct_answers": 10,
+        "total_trials": 10,
+        "sample_responses": [
+          "Shinjuku Station is the busiest train station in the world by passenger throughput.",
+          "Shinjuku Station is the busiest train station in the world by passenger throughput.",
+          "Shinjuku Station is the busiest train station in the world by passenger throughput."
+        ]
+      },
+      {
+        "context_tokens": 2822,
+        "target_tokens": 2800,
+        "accuracy": 1.0,
+        "correct_answers": 10,
+        "total_trials": 10,
+        "sample_responses": [
+          "According to the text, Shinjuku Station is the busiest train station in the world by passenger throughput.",
+          "According to the text, Shinjuku Station is the busiest train station in the world by passenger throughput.",
+          "According to the text, Shinjuku Station is the busiest train station in the world by passenger throughput."
+        ]
+      },
+      {
+        "context_tokens": 3178,
+        "target_tokens": 3200,
+        "accuracy": 1.0,
+        "correct_answers": 10,
+        "total_trials": 10,
+        "sample_responses": [
+          "Shinjuku Station.",
+          "According to the text, Shinjuku Station is the busiest train station in the world by passenger throughput.",
+          "According to the text, Shinjuku Station is the busiest train station in the world by passenger throughput."
+        ]
+      },
+      {
+        "context_tokens": 3503,
+        "target_tokens": 3600,
+        "accuracy": 1.0,
+        "correct_answers": 10,
+        "total_trials": 10,
+        "sample_responses": [
+          "According to the text, Shinjuku Station is the busiest train station in the world by passenger throughput.",
+          "Shinjuku Station.",
+          "According to the text, Shinjuku Station is the busiest train station in the world by passenger throughput."
+        ]
+      },
+      {
+        "context_tokens": 3987,
+        "target_tokens": 4000,
+        "accuracy": 1.0,
+        "correct_answers": 10,
+        "total_trials": 10,
+        "sample_responses": [
+          "Shinjuku Station is the busiest train station in the world by passenger throughput.",
+          "Shinjuku Station is the busiest train station in the world by passenger throughput.",
+          "Shinjuku Station is the busiest train station in the world by passenger throughput."
+        ]
+      }
+    ]
+  },
+  "question_3": {
+    "question": "How many rail lines does JR East operate within Greater Tokyo?",
+    "expected_answer": "23 lines",
+    "results": [
+      {
+        "context_tokens": 239,
+        "target_tokens": 400,
+        "accuracy": 1.0,
+        "correct_answers": 10,
+        "total_trials": 10,
+        "sample_responses": [
+          "According to the text, JR alone operates 23 lines within the Greater Tokyo area.",
+          "According to the text, JR alone operates 23 lines within the Greater Tokyo area.",
+          "According to the text, JR alone operates 23 lines within the Greater Tokyo area."
+        ]
+      },
+      {
+        "context_tokens": 812,
+        "target_tokens": 800,
+        "accuracy": 1.0,
+        "correct_answers": 10,
+        "total_trials": 10,
+        "sample_responses": [
+          "According to the text, JR alone operates 23 lines within the Greater Tokyo area.",
+          "According to the text, JR East operates 23 lines within the Greater Tokyo area.",
+          "According to the text, JR alone operates 23 lines within the Greater Tokyo area."
+        ]
+      },
+      {
+        "context_tokens": 1214,
+        "target_tokens": 1200,
+        "accuracy": 1.0,
+        "correct_answers": 10,
+        "total_trials": 10,
+        "sample_responses": [
+          "According to the text, JR East operates 23 lines within the Greater Tokyo area.",
+          "According to the text, JR alone operates 23 lines within the Greater Tokyo area.",
+          "According to the text, JR alone operates 23 lines within the Greater Tokyo area."
+        ]
+      },
+      {
+        "context_tokens": 1621,
+        "target_tokens": 1600,
+        "accuracy": 1.0,
+        "correct_answers": 10,
+        "total_trials": 10,
+        "sample_responses": [
+          "According to the text, JR East operates 23 lines within the Greater Tokyo area.",
+          "According to the text, JR East operates 23 lines within the Greater Tokyo area.",
+          "According to the text, JR East operates 23 lines within the Greater Tokyo area."
+        ]
+      },
+      {
+        "context_tokens": 1945,
+        "target_tokens": 2000,
+        "accuracy": 1.0,
+        "correct_answers": 10,
+        "total_trials": 10,
+        "sample_responses": [
+          "According to the text, JR alone operates 23 lines within the Greater Tokyo area.",
+          "According to the text, JR East operates 23 lines within the Greater Tokyo area.",
+          "According to the text, JR East operates 23 lines within the Greater Tokyo area."
+        ]
+      },
+      {
+        "context_tokens": 2374,
+        "target_tokens": 2400,
+        "accuracy": 1.0,
+        "correct_answers": 10,
+        "total_trials": 10,
+        "sample_responses": [
+          "According to the text, JR East operates 23 lines within the Greater Tokyo area.",
+          "According to the text, JR East operates 23 lines within the Greater Tokyo area.",
+          "According to the text, JR East operates 23 lines within the Greater Tokyo area."
+        ]
+      },
+      {
+        "context_tokens": 2818,
+        "target_tokens": 2800,
+        "accuracy": 1.0,
+        "correct_answers": 10,
+        "total_trials": 10,
+        "sample_responses": [
+          "According to the text, JR East operates 23 lines within the Greater Tokyo area.",
+          "According to the text, JR East operates 23 lines within the Greater Tokyo area.",
+          "According to the text, JR East operates 23 lines within the Greater Tokyo area."
+        ]
+      },
+      {
+        "context_tokens": 3174,
+        "target_tokens": 3200,
+        "accuracy": 1.0,
+        "correct_answers": 10,
+        "total_trials": 10,
+        "sample_responses": [
+          "According to the text, JR East operates 23 lines within the Greater Tokyo area.",
+          "According to the text, JR East operates 23 lines within the Greater Tokyo area.",
+          "According to the text, JR East operates 23 lines within the Greater Tokyo area."
+        ]
+      },
+      {
+        "context_tokens": 3499,
+        "target_tokens": 3600,
+        "accuracy": 1.0,
+        "correct_answers": 10,
+        "total_trials": 10,
+        "sample_responses": [
+          "According to the text, JR East operates 23 lines within the Greater Tokyo area.",
+          "According to the text, JR East operates 23 lines within the Greater Tokyo area.",
+          "According to the text, JR East operates 23 lines within the Greater Tokyo area."
+        ]
+      },
+      {
+        "context_tokens": 3983,
+        "target_tokens": 4000,
+        "accuracy": 1.0,
+        "correct_answers": 10,
+        "total_trials": 10,
+        "sample_responses": [
+          "According to the text, JR East operates 23 lines within the Greater Tokyo area.",
+          "According to the text, JR East operates 23 lines within the Greater Tokyo area.",
+          "According to the text, JR East operates 23 lines within the Greater Tokyo area."
+        ]
+      }
+    ]
+  }
+}
