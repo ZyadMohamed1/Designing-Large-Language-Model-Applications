@@ -89,6 +89,21 @@ Whether you're an ML engineer, researcher, or curious developer, this repository
 - 📊 Benchmark Llama 3.2 across different precision modes
 - 💾 Reduce model size by 75% while maintaining performance
 
+### [Chapter 12: Advanced RAG Techniques — Enhancing Retrieval-Augmented Generation](./Chapter%2012/)
+*Build sophisticated RAG systems with cutting-edge techniques for production-ready applications*
+
+**Highlights:**
+- 🔗 Implement Chain-of-Notes (CoN) prompting to prevent hallucinations by acknowledging knowledge gaps
+- ⚖️ Compare Cross-Encoder vs Bi-Encoder performance across different query types
+- 🔄 Deploy FLARE-Direct for dynamic information retrieval based on uncertainty detection
+- 🕸️ Build GraphRAG systems with entity extraction and relationship mapping
+- 🎯 Enhance embedding quality using specialized LLM-Embedder models
+- 📏 Test long context efficacy across varying document lengths
+- 🧠 Integrate persistent conversation memory with Mem0 for personalized interactions
+- 📊 Develop Query Likelihood Models (QLM) for improved document ranking
+- 🏆 Implement two-stage retrieval with RankVicuna-style reranking
+- 📝 Compare QA-focused vs generic summarization for noise reduction
+
 ## 📋 Prerequisites
 
 - Python 3.8+
@@ -98,4 +113,4 @@ Whether you're an ML engineer, researcher, or curious developer, this repository
 
 ### 🚧 Upcoming Chapters
 
-**Chapter 10,11,12,13** *(Coming Soon)*
+**Chapter 10,11,13** *(Coming Soon)*
