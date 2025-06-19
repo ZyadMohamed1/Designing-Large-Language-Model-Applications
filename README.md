@@ -89,6 +89,17 @@ Whether you're an ML engineer, researcher, or curious developer, this repository
 - 📊 Benchmark Llama 3.2 across different precision modes
 - 💾 Reduce model size by 75% while maintaining performance
 
+### [Chapter 10: Building LLM Agents — Tool Use & Observability](./Chapter%2010/)  
+*Design intelligent LLM agents capable of selecting and utilizing the right tools with real-time observability*
+
+**Highlights:**
+- 🛠️ Implement intelligent tool selection based on query intent using Wikipedia, DuckDuckGo, ArXiv, Python REPL, and Calculator  
+- 🧠 Build agent logic to route questions to the most relevant external tool using prompt-based reasoning  
+- 🔍 Apply selection rules to differentiate between factual, real-time, computational, and scientific queries  
+- 🧪 Evaluate agent performance in multi-tool environments through task-based testing  
+- 🤖 Run agents with LLaMA 3 using Ollama for local inference  
+- 📈 Integrate LangSmith to trace agent steps, monitor decisions, and debug tool usage  
+
 ### [Chapter 12: Advanced RAG Techniques — Enhancing Retrieval-Augmented Generation](./Chapter%2012/)
 *Build sophisticated RAG systems with cutting-edge techniques for production-ready applications*
 
@@ -121,4 +132,4 @@ Whether you're an ML engineer, researcher, or curious developer, this repository
 
 ### 🚧 Upcoming Chapters
 
-**Chapter 10,11,13** *(Coming Soon)*
+**Chapter 11** *(Coming Soon)*
